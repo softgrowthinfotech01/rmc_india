@@ -179,7 +179,7 @@
                 <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
                 <h1 class="display-5 mb-4">We Are Experts in Ready-Mix Concrete Solutions</h1>
                 <p class="mb-4">
-                    At <strong>RMC INDIA</strong>, we provide high-quality, ready-mix concrete designed to meet the needs of modern construction. 
+                    At <strong>RMC CHANDRAPUR MH IND</strong>, we provide high-quality, ready-mix concrete designed to meet the needs of modern construction. 
                     With state-of-the-art batching plants, on-time delivery, and strict quality control, 
                     we ensure every cubic meter of concrete meets your project’s exact specifications.
                 </p>
