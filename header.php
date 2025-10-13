@@ -25,7 +25,7 @@
         
         <a href="index.html" class="navbar-brand ps-5 me-0">
         <img src="img/KMPrefine.png" alt="logo" style="width:65px ; margin-right:5px">
-        <h1 class="text-white m-0">RMS INDIA</h1>
+        <h1 class="text-white m-0">RMC INDIA</h1>
         </a>
         <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
