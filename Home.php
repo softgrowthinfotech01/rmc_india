@@ -36,6 +36,10 @@
         {
             background:none !important;
         }
+
+        .text-shadow{
+            filter: drop-shadow(2px 4px 6px black);
+        }
         </style>
 </head>
 
@@ -55,52 +59,101 @@
 
 
     <!-- Carousel Start -->
-    <div class="container-fluid px-0 mb-5">
-        <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="w-100" src="img/slider.png" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <!-- <div class="col-lg-10 text-start">
-                                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
-                                        of Working Experience</p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Industrial Solution
-                                        Providing Company</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="img/carousel-2.jpg" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-10 text-start">
-                                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
-                                        of Working Experience</p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">The Best Reliable
-                                        Industry Solution</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
-                                </div>
+ <!-- Fullscreen Carousel Section -->
+<div class="container-fluid px-0 mb-5">
+    <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+
+            <!-- Slide 1 -->
+            <div class="carousel-item active">
+                <img class="w-100 vh-100 object-fit-cover" src="img/slider.png" alt="Image">
+                <div class="carousel-caption d-flex align-items-center justify-content-start h-100">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 text-start">
+                                <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                    Building Future with Innovation
+                                </p>
+                                <h1 class="display-1 text-shadow text-white mb-4 animated slideInRight">
+                                    Delivering Smart Industrial Solutions
+                                </h1>
+                                <p class="text-white fs-5 mb-4 animated slideInRight">
+                                    We combine technology and expertise to drive your business forward.
+                                </p>
+                                <a href="#services" class="btn btn-primary py-3 px-5 animated slideInRight">
+                                    Discover Our Services
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
+
+            <!-- Slide 2 -->
+            <div class="carousel-item">
+                <img class="w-100 vh-100 object-fit-cover" src="img/carousel-2.jpg" alt="Image">
+                <div class="carousel-caption d-flex align-items-center justify-content-start h-100">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 text-start">
+                                <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                    Trusted by Leading Industries
+                                </p>
+                                <h1 class="display-1 text-shadow text-white mb-4 animated slideInRight">
+                                    Engineering Excellence Since 2000
+                                </h1>
+                                <p class="text-white fs-5 mb-4 animated slideInRight">
+                                    From concept to creation — we deliver excellence every step of the way.
+                                </p>
+                                <a href="#about" class="btn btn-primary py-3 px-5 animated slideInRight">
+                                    Learn More About Us
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide 3 -->
+            <div class="carousel-item">
+                <img class="w-100 vh-100 object-fit-cover" src="img/time-2.jpg" alt="Image">
+                <div class="carousel-caption d-flex align-items-center justify-content-start h-100">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 text-start">
+                                <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
+                                    Driven by Quality & Commitment
+                                </p>
+                                <h1 class="display-1 text-shadow text-white mb-4 animated slideInRight">
+                                    Shaping the Industry of Tomorrow
+                                </h1>
+                                <p class="text-white fs-5 mb-4 animated slideInRight">
+                                    Empowering businesses with cutting-edge solutions and expert support.
+                                </p>
+                                <a href="#contact" class="btn btn-primary py-3 px-5 animated slideInRight">
+                                    Get in Touch
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
+        <!-- Controls -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
+</div>
+
+
     <!-- Carousel End -->
 
 
