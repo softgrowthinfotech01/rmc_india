@@ -179,7 +179,7 @@
                 <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
                 <h1 class="display-5 mb-4">We Are Experts in Ready-Mix Concrete Solutions</h1>
                 <p class="mb-4">
-                    At <strong>RMC CHANDRAPUR MH IND</strong>, we provide high-quality, ready-mix concrete designed to meet the needs of modern construction. 
+                    At <strong>RMC CHANDRAPUR MH +</strong>, we provide high-quality, ready-mix concrete designed to meet the needs of modern construction. 
                     With state-of-the-art batching plants, on-time delivery, and strict quality control, 
                     we ensure every cubic meter of concrete meets your project’s exact specifications.
                 </p>
@@ -289,9 +289,10 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">Why Choosing Us!</p>
                     <h1 class="display-5 mb-4">Few Reasons Why People Choosing Us!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
-                    </p>
+<p class="mb-4">
+We are trusted by clients for our commitment to quality, on-time delivery, and professional service. Our focus on reliability, customer satisfaction, and modern technology makes us a preferred choice in the industry.
+</p>
+
                     <div class="row gy-4">
                         <div class="col-12">
                             <div class="d-flex">
@@ -299,9 +300,9 @@
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>Experienced Workers</h4>
-                                    <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna
-                                        dolore erat amet</span>
+                                   <h4>Experienced Workers</h4>
+<span>Our team consists of skilled and experienced professionals dedicated to delivering high-quality work with precision and efficiency.</span>
+
                                 </div>
                             </div>
                         </div>
@@ -312,8 +313,8 @@
                                 </div>
                                 <div class="ms-4">
                                     <h4>Reliable Industrial Services</h4>
-                                    <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna
-                                        dolore erat amet</span>
+<span>We deliver dependable and high-quality industrial solutions with a strong focus on safety, efficiency, and customer satisfaction.</span>
+
                                 </div>
                             </div>
                         </div>
@@ -323,9 +324,9 @@
                                     <i class="fa fa-check text-white"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h4>24/7 Customer Support</h4>
-                                    <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna
-                                        dolore erat amet</span>
+                                   <h4>24/7 Customer Support</h4>
+<span>Our dedicated support team is available around the clock to assist you with quick responses and reliable solutions.</span>
+
                                 </div>
                             </div>
                         </div>
@@ -360,76 +361,100 @@
 
 
     <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Our Services</p>
-                <h1 class="display-5 mb-4">We Provide Best Industrial Services</h1>
-            </div>
-            <div class="row gy-5 gx-4">
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/service-1.jpg" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/service-1.jpg" alt="">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">Civil & Gas Engineering</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/service-2.jpg" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/service-2.jpg" alt="">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">Power & Energy Engineering</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/service-3.jpg" alt="">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">Plumbing & Water Treatment</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
+    <section class="container py-5">
+         
+  <div class="row g-4 justify-content-center">
+
+    <!-- Card 1 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-1.jpg" class="card-img-top" alt="Industrial Complex">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Industrial Complex</h5>
+          <p class="text-muted mb-0">Commercial Infrastructure</p>
         </div>
+      </div>
     </div>
+
+    <!-- Card 2 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-2.jpeg" class="card-img-top" alt="Lloyds Metal">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Lloyds Metal</h5>
+          <p class="text-muted mb-0">Energy Industrial Facility</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-3.jpg" class="card-img-top" alt="Vishwaraj Environment">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">CSTPS </h5>
+          <p class="text-muted mb-0">STP Project</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-4.jpeg" class="card-img-top" alt="Mahalaxmi Cement Works">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Mahalaxmi Cement Works</h5>
+          <p class="text-muted mb-0">Cement Manufacturing Plant</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-5.jpeg" class="card-img-top" alt="UltraTech Projects">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">UltraTech Projects</h5>
+          <p class="text-muted mb-0">Ready-Mix Concrete Facility</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-6.jpeg" class="card-img-top" alt="JSW Industries">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">JSW Industries</h5>
+          <p class="text-muted mb-0">Steel Manufacturing Unit</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 7 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-7.jpeg" class="card-img-top" alt="Godrej Construction">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Godrej Construction</h5>
+          <p class="text-muted mb-0">Corporate Infrastructure Project</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 8 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-8.jpeg" class="card-img-top" alt="Reliance Industrial">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Reliance Industrial</h5>
+          <p class="text-muted mb-0">Petrochemical Facility</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
     <!-- Service End -->
 
 
