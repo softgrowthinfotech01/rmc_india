@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Industro - Industrial HTML Template</title>
+    <title>RMC Chandrapur</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -31,6 +31,12 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <style>
+        .carousel-caption
+        {
+            background:none !important;
+        }
+        </style>
 </head>
 
 <body>
@@ -53,17 +59,17 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="img/slider.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
-                                <div class="col-lg-10 text-start">
+                                <!-- <div class="col-lg-10 text-start">
                                     <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
                                         of Working Experience</p>
                                     <h1 class="display-1 text-white mb-5 animated slideInRight">Industrial Solution
                                         Providing Company</h1>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
