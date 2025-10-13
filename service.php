@@ -195,61 +195,100 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Testimonial</p>
-                <h1 class="display-5 mb-5">What Our Clients Say!</h1>
-            </div>
-            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-                <div class="testimonial-item text-center">
-                    <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-1.jpg">
-                        <div class="btn-square bg-primary rounded-circle">
-                            <i class="fa fa-quote-left text-white"></i>
-                        </div>
-                    </div>
-                    <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
-                    <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-2.jpg">
-                        <div class="btn-square bg-primary rounded-circle">
-                            <i class="fa fa-quote-left text-white"></i>
-                        </div>
-                    </div>
-                    <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
-                    </div>
-                </div>
-                <div class="testimonial-item text-center">
-                    <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="img/testimonial-3.jpg">
-                        <div class="btn-square bg-primary rounded-circle">
-                            <i class="fa fa-quote-left text-white"></i>
-                        </div>
-                    </div>
-                    <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
-                    </div>
-                </div>
-            </div>
+    <section class="container py-5">
+  <div class="row g-4 justify-content-center">
+
+    <!-- Card 1 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-1.jpg" class="card-img-top" alt="Industrial Complex">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Industrial Complex</h5>
+          <p class="text-muted mb-0">Commercial Infrastructure</p>
         </div>
+      </div>
     </div>
+
+    <!-- Card 2 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-2.jpeg" class="card-img-top" alt="Lloyds Metal">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Lloyds Metal</h5>
+          <p class="text-muted mb-0">Energy Industrial Facility</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-3.jpg" class="card-img-top" alt="Vishwaraj Environment">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">CSTPS </h5>
+          <p class="text-muted mb-0">STP Project</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-4.jpeg" class="card-img-top" alt="Mahalaxmi Cement Works">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Mahalaxmi Cement Works</h5>
+          <p class="text-muted mb-0">Cement Manufacturing Plant</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-5.jpeg" class="card-img-top" alt="UltraTech Projects">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">UltraTech Projects</h5>
+          <p class="text-muted mb-0">Ready-Mix Concrete Facility</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-6.jpeg" class="card-img-top" alt="JSW Industries">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">JSW Industries</h5>
+          <p class="text-muted mb-0">Steel Manufacturing Unit</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 7 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-7.jpeg" class="card-img-top" alt="Godrej Construction">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Godrej Construction</h5>
+          <p class="text-muted mb-0">Corporate Infrastructure Project</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 8 -->
+    <div class="col-md-4 col-sm-6">
+      <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
+        <img src="img/card-8.jpeg" class="card-img-top" alt="Reliance Industrial">
+        <div class="card-body bg-dark text-center text-white">
+          <h5 class="fw-semibold text-white">Reliance Industrial</h5>
+          <p class="text-muted mb-0">Petrochemical Facility</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
     <!-- Testimonial End -->
 
 
